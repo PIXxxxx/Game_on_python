@@ -10,3 +10,5 @@ class Card:
         player.use_mana(self.cost)
         if self.effect and target:
             self.effect.apply(target)
+
+#test commit
