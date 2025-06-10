@@ -11,4 +11,4 @@ class Card:
         if self.effect and target:
             self.effect.apply(target)
 
-#test commit
+#test commit 2
